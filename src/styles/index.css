@@ -5,6 +5,7 @@
  *   '
  *   card.scss 2:10  @use
  *   index.scss 4:1  root stylesheet */
+@import './variables';
 
 body::before {
   font-family: 'Source Code Pro', 'SF Mono', Monaco, Inconsolata, 'Fira Mono',
